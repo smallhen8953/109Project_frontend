@@ -1,6 +1,6 @@
 # the_help_list
 
-A new Flutter application.
+An online mutual aid matching platform application.
 
 ## Getting Started
 
