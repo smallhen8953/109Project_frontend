@@ -1,4 +1,4 @@
-# the_help_list
+# EZRA
 
 An online mutual aid matching platform application.
 
